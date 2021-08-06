@@ -21,8 +21,8 @@
 
 <table>
 	<tr>
-		<th>Order ID</th>
-		<th>Date</th>
+		<th>Orden ID</th>
+		<th>Fecha</th>
 		<th>Total Price</th>
 	</tr>
 
